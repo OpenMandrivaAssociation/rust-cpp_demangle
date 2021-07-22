@@ -7,8 +7,8 @@
 %global crate cpp_demangle
 
 Name:           rust-%{crate}
-Version:        0.2.14
-Release:        2%{?dist}
+Version:        0.3.3
+Release:        1
 Summary:        Crate for demangling C++ symbols
 
 # Upstream license specification: Apache-2.0/MIT
