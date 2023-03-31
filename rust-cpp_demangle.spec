@@ -8,7 +8,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.3
-Release:        1
+Release:        2
 Summary:        Crate for demangling C++ symbols
 
 # Upstream license specification: Apache-2.0/MIT
